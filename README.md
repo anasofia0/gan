@@ -45,7 +45,6 @@ Siga os passos abaixo para configurar e executar o projeto.
 ### 1. Clonar o Repositório
 
 ```bash
-
 git clone https://github.com/anasofia0/gan.git
 cd seu-repositorio
 ```
