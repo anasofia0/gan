@@ -85,6 +85,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a licença MIT.
 
 Nota: O tempo de treinamento pode variar dependendo da sua configuração de hardware (CPU vs. GPU). O notebook está configurado para usar GPU se disponível (```torch.cuda.is_available()```).
